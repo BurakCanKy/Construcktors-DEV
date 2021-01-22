@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construcktors (ÖDEV)", "Construcktors (ÖDEV)\Construcktors (ÖDEV).csproj", "{AEEBBA60-A321-4FE7-9919-3A03B4EF26B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEEBBA60-A321-4FE7-9919-3A03B4EF26B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEBBA60-A321-4FE7-9919-3A03B4EF26B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEBBA60-A321-4FE7-9919-3A03B4EF26B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEBBA60-A321-4FE7-9919-3A03B4EF26B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5FA00F8-1CF1-4EB2-BC2F-7FE50DEC6CA8}
+	EndGlobalSection
+EndGlobal
